@@ -1,5 +1,6 @@
-# Tugas Praktikum 8
-![Soal](https://user-images.githubusercontent.com/46867774/146535215-25f92026-f5f2-493f-833f-336252873ace.PNG)
+# SOAL UAS
+<img width="574" alt="1" src="https://user-images.githubusercontent.com/95651421/149334016-6b561e58-a1fc-41c5-8526-2856bc36fe53.png">
+
 
 # Penjelasan
 
